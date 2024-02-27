@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yusufyaman07&label=Profile%20views&color=0e75b6&style=flat" alt="yusufyaman07" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yusufyaman07" alt="yusufyaman07" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/yaman_yusuf_7" target="blank"><img src="https://img.shields.io/twitter/follow/yaman_yusuf_7?logo=twitter&style=for-the-badge" alt="yaman_yusuf_7" /></a> </p>
 
 - 📝 To access my personal accounts: [https://bento.me/yusufyaman](https://bento.me/yusufyaman)
@@ -25,5 +23,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yusufyaman07&show_icons=true&locale=en" alt="yusufyaman07" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yusufyaman07&" alt="yusufyaman07" /></p>
+
 
 
