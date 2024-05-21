@@ -10,7 +10,7 @@
 
 🤭 I love learning new things and software
 
-📫How can you reach me yusufyaman00000@gmail.com
+📫 How can you reach me yusufyaman00000@gmail.com
 
 LinkedIn https://www.linkedin.com/in/yamanyusuf/
 
