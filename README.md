@@ -1,12 +1,18 @@
-<p align="center"><img src="https://i.imgur.com/A6bWGFl.gif"/></p>
 <h1 align="center">Hi 👋, I'm Yusuf Yaman!</h1>
-<h3 align="center">I am a software engineering student and have been actively working in the field of programming for 3 years. In this process, I am constantly improving myself in mobile application development with my 2 years of frontend development with React and 1 year of React Native experience.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yusufyaman07&label=Profile%20views&color=0e75b6&style=flat" alt="yusufyaman07" /> </p>
+🔭I am currently working in the industry.
 
-<p align="left"> <a href="https://twitter.com/yaman_yusuf_7" target="blank"><img src="https://img.shields.io/twitter/follow/yaman_yusuf_7?logo=twitter&style=for-the-badge" alt="yaman_yusuf_7" /></a> </p>
+🌱 I'm currently studying software engineering and I'm still improving myself.
 
-- 📝 To access my personal accounts: [https://bento.me/yusufyaman](https://bento.me/yusufyaman)
+🔮 I develop projects with React, Javascript & React Native.
+
+💬 Ask me about React JS,React Native,Javascript
+
+🤭 I love learning new things and software
+
+📫How can you reach me yusufyaman00000@gmail.com
+
+LinkedIn https://www.linkedin.com/in/yamanyusuf/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
