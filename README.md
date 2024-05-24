@@ -12,8 +12,6 @@
 
 📫 How can you reach me yusufyaman00000@gmail.com
 
-LinkedIn https://www.linkedin.com/in/yamanyusuf/
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/yaman_yusuf_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yaman_yusuf_7" height="30" width="40" /></a>
